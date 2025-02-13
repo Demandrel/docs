@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Introduction to R for kitten",
   "colors": {
-    "primary": "#FFB86A",
-    "light": "#07C983",
-    "dark": "#15803D"
+    "primary": "#F0A450",
+    "light": "#F0A450",
+    "dark": "#FFB86A"
   },
   "favicon": "/favicon.svg",
   "navigation": {
